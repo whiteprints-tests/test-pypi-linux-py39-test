@@ -66,6 +66,7 @@ urls.download = "https://github.com/whiteprints-tests/test-pypi-linux-py39-test/
 urls.homepage = "https://github.com/whiteprints-tests/test-pypi-linux-py39-test"
 urls.integration = "https://github.com/whiteprints-tests/test-pypi-linux-py39-test/actions"
 urls.issues = "https://github.com/whiteprints-tests/test-pypi-linux-py39-test/issues"
+urls.pypi = "https://pypi.org/project/test-pypi-linux-py39-test"
 urls.repository = "https://github.com/whiteprints-tests/test-pypi-linux-py39-test"
 scripts.test-pypi-linux-py39-test = "test_pypi_linux_py39_test.cli.entrypoint:test_pypi_linux_py39_test"
 

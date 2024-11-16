@@ -14,7 +14,8 @@ SPDX-License-Identifier: CC0-1.0
         </em>
     </p>
     <p>
-        <a href="https://www.python.org/"><img alt="Python badge" src="https://img.shields.io/badge/Python->=3.9-306998.svg?logo=Python&logoColor=ffd43b"/></a>
+        <a href="https://www.python.org"><img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/test-pypi-linux-py39-test.svg?logo=Python&logoColor=ffd43b"/></a>
+        <a href="https://pypi.org/project/test-pypi-linux-py39-test"><img alt="PyPI - Project Version" src="https://img.shields.io/pypi/v/test-pypi-linux-py39-test.svg?logo=PyPI&logoColor=ffd43b"/></a>
         <a href="https://spdx.org/licenses"><img alt="license badge" src="https://img.shields.io/badge/📝_License-MIT OR Apache--2.0-4CAF50.svg"/></a>
         <a href="https://github.com/whiteprints-tests/test-pypi-linux-py39-test/discussions"><img alt="GitHub Discussions" src="https://img.shields.io/github/discussions/whiteprints-tests/test-pypi-linux-py39-test.svg?logo=GitHub"></a>
         <a href="https://spdx.dev/learn/areas-of-interest/licensing/"><img alt="SPDX Licensing" src="https://img.shields.io/badge/SPDX-licensing-0080FF.svg?logo=SPDX"/></a>
